@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1683228937 source:c:\users\moiza\desktop\lab\crypto\key_generate\main.c
+	<stdio.h>
+	<stdlib.h>
+
